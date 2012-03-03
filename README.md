@@ -5,6 +5,7 @@ server for your Capybara request specs. Reduce select() spam from having
 EventMachine running, but still get better performance than Webrick.
 
 There are several advantages to this:
+
  * A minor performance enhancement in some environments
  * No more CTRL+C fail
  * No depending on really old gems
