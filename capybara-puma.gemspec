@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-Gem::Specification.new("capybara-puma", "1.0.0") do |gem|
+Gem::Specification.new("capybara-puma", "1.0.1") do |gem|
   gem.authors       = ["James Tucker"]
   gem.email         = ["jftucker@gmail.com"]
   gem.description   = "A Capybara server replacement using the Puma webserver"
