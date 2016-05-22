@@ -1,3 +1,23 @@
+# Capybara has native fetures now, this gem is deprecated.
+
+``` ruby
+Capybara.configure do |config|
+  config.server = :puma
+end
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Capybara::Puma
 
 The sweet loving marriage of Capybara and Puma. Use a lightweight threaded
