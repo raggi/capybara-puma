@@ -1,4 +1,4 @@
-# Capybara has native fetures now, this gem is deprecated.
+# Capybara has native features now, this gem is deprecated.
 
 ``` ruby
 Capybara.configure do |config|
